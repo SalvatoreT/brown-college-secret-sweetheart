@@ -1,22 +1,31 @@
+.center-image {
+    margin: 0 auto;
+}
 
+body {
+	background-color: #FFB6C1;
+	-moz-box-shadow:    inset 0 0 100px #000000;
+	-webkit-box-shadow: inset 0 0 100px #000000;
+	box-shadow:         inset 0 0 100px #000000;
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+.cursive {
+	font-family: 'Cedarville Cursive', cursive;
+}
 
+.buffer-top {
+	margin-top: 200px;
+}
 
+.title-text {
+	margin-top: 200px;
+}
 
+.bottom-bar {
+	margin-top: 300px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.poem {
+	height: 400px;
+	line-height: 400px;
+}
